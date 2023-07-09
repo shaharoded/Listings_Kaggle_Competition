@@ -8,4 +8,3 @@ In the following code and paper you can see a full description of the code, the 
 
 On the final test (private test) this flow was given an AUC-ROC score of [to be completed], 2 place out of ~50 teams.
 
-##### Code will be published once the competition is closed. Stay tuned for more!
