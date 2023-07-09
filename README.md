@@ -6,5 +6,5 @@ Next, by creating an original flow and preprocess, had to get the best results i
 
 In the following code and paper you can see a full description of the code, the preprocess, the different features and methods implemented.
 
-On the final test (private test) this flow was given an AUC-ROC score of [to be completed], 2 place out of ~50 teams.
+On the final test (private test) this flow was given an AUC-ROC score of 0.8341, 2 place out of ~50 teams.
 
